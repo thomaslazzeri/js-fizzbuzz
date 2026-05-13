@@ -1,0 +1,2 @@
+Creazione di un esercizio con richiesta di stampare i numeri che vanno da 1 a 100.
+Con in particolare in aggiunta che i numeri multipli di 3 abbiano la stampa con la parola Fizz, i multipli di 5 con la parola Buzz e per i numeri che sono sia multipli di 3 e 5 venga stampata la parola FizzBuzz.
